@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Create React App - Aviso Abajo
 
+Aviso: Tuve problemas con Bootstrap y la version de mi Node.js debido a mi computador asi que esperemos se llegue a ver la galeria de imagenes y no solo el titulo. 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
